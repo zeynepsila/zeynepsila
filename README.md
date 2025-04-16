@@ -41,15 +41,6 @@ I’m a Computer Engineer who loves turning complex problems into simple, beauti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynepsila&show_icons=true&theme=calm" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynepsila&layout=compact&theme=calm" height="165">
-</p>
-
----
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zeynep-sıla-kaymak)  
