@@ -16,10 +16,6 @@ I’m a Computer Engineer who loves turning complex problems into simple, beauti
 
 ## 🧰 Languages and Tools
 
-### Version Control  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
 ### Mobile Development  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -39,9 +35,13 @@ I’m a Computer Engineer who loves turning complex problems into simple, beauti
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=phpstorm&logoColor=white)
 
+### Version Control  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ---
 
-## 📫 Let's Connect
+## 📫 Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zeynep-sıla-kaymak)  
 - 📬 [Email](mailto:zeynepsila@gmail.com)  
